@@ -1,0 +1,51 @@
+D:\New folder\ExaminationSystem\DAL\bin\Debug\DAL.dll
+D:\New folder\ExaminationSystem\DAL\bin\Debug\DAL.pdb
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Data.SqlClient.dll
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Security.AccessControl.dll
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Security.Permissions.dll
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Security.Principal.Windows.dll
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Data.SqlClient.xml
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Security.AccessControl.xml
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Security.Permissions.xml
+D:\New folder\ExaminationSystem\DAL\bin\Debug\System.Security.Principal.Windows.xml
+D:\New folder\ExaminationSystem\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\New folder\ExaminationSystem\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\New folder\ExaminationSystem\DAL\obj\Debug\DAL.csproj.CopyComplete
+D:\New folder\ExaminationSystem\DAL\obj\Debug\DAL.dll
+D:\New folder\ExaminationSystem\DAL\obj\Debug\DAL.pdb
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\DAL.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\DAL.pdb
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Data.SqlClient.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.AccessControl.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Permissions.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Principal.Windows.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Data.SqlClient.xml
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.AccessControl.xml
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Permissions.xml
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Principal.Windows.xml
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.csproj.CopyComplete
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Permissions.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Permissions.xml
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\DAL\obj\Debug\DAL.pdb

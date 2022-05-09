@@ -1,0 +1,36 @@
+D:\New folder\ExaminationSystem\BLL\bin\Debug\BLL.dll
+D:\New folder\ExaminationSystem\BLL\bin\Debug\BLL.pdb
+D:\New folder\ExaminationSystem\BLL\bin\Debug\DAL.dll
+D:\New folder\ExaminationSystem\BLL\bin\Debug\DAL.pdb
+D:\New folder\ExaminationSystem\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\New folder\ExaminationSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\New folder\ExaminationSystem\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\New folder\ExaminationSystem\BLL\obj\Debug\BLL.dll
+D:\New folder\ExaminationSystem\BLL\obj\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\bin\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\bin\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\obj\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem\BLL\obj\Debug\BLL.pdb
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\BLL.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\BLL.pdb
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\DAL.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\DAL.pdb
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.csproj.CopyComplete
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.dll
+G:\FCI-CU\Repos\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\BLL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\DAL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\bin\Debug\DAL.pdb
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.dll
+C:\Users\Lenovo\Desktop\New folder\DB-Project\ExaminationSystem_Reports\BLL\obj\Debug\BLL.pdb
